@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: f904df1c41ed0c449af6c3f08aa3f57c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Basket
+    100002: Disc
+    100004: DiscCollider
+    100006: //RootNode
+    100008: Marker
+    100010: MenuButtonBG
+    100012: MenuButtonBG_001
+    100014: ScoreboardEndBG
+    100016: ScoreboardRowBG
+    100018: LevelButtonBG
+    100020: ScorboardEndBG
+    100022: PopupBG
+    400000: Basket
+    400002: Disc
+    400004: DiscCollider
+    400006: //RootNode
+    400008: Marker
+    400010: MenuButtonBG
+    400012: MenuButtonBG_001
+    400014: ScoreboardEndBG
+    400016: ScoreboardRowBG
+    400018: LevelButtonBG
+    400020: ScorboardEndBG
+    400022: PopupBG
+    2100000: unnamed
+    2100002: Material_001
+    2100004: Material_001__hole_palette
+    2300000: Basket
+    2300002: Disc
+    2300004: DiscCollider
+    2300006: Marker
+    2300008: MenuButtonBG
+    2300010: MenuButtonBG_001
+    2300012: ScoreboardEndBG
+    2300014: ScoreboardRowBG
+    2300016: LevelButtonBG
+    2300018: ScorboardEndBG
+    2300020: PopupBG
+    3300000: Basket
+    3300002: Disc
+    3300004: DiscCollider
+    3300006: Marker
+    3300008: MenuButtonBG
+    3300010: MenuButtonBG_001
+    3300012: ScoreboardEndBG
+    3300014: ScoreboardRowBG
+    3300016: LevelButtonBG
+    3300018: ScorboardEndBG
+    3300020: PopupBG
+    4300000: DiscCollider
+    4300002: Disc
+    4300004: Basket
+    4300006: Marker
+    4300008: MenuButtonBG
+    4300010: MenuButtonBG_001
+    4300012: ScoreboardEndBG
+    4300014: ScoreboardRowBG
+    4300016: LevelButtonBG
+    4300018: ScorboardEndBG
+    4300020: PopupBG
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
